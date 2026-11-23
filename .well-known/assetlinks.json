@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.olyx",
+    "sha256_cert_fingerprints": ["D6:AA:E2:BA:F8:8F:CE:FD:D4:6F:A5:0E:02:76:D3:16:DA:09:AE:D2:D3:58:63:0A:BA:E7:36:78:4F:BD:7E:C7"]
+  }
+}]

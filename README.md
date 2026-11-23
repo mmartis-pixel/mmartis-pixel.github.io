@@ -1,0 +1,1 @@
+Root of mmartis-pixel.github.io. Holds `.well-known/assetlinks.json`, which links the OLYX Android app (`app.olyx`) to https://mmartis-pixel.github.io/habits/ so it opens full screen (Trusted Web Activity). The app itself lives in the `habits` repo.
